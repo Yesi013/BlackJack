@@ -1,0 +1,28 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: #2F4F30;
+    color: white;
+}
+.titulo{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    font-size: 1rem;
+}
+.carta{
+    position: relative;
+    width: 150px;
+    left: 3rem;
+    margin-left: -3rem;
+}
+
+.box-cartas{
+    height: 240px;
+}
